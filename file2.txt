@@ -1,2 +1,2 @@
 file two content 
-feature2 changes added
+feature1 changes added
